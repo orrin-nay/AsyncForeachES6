@@ -1,0 +1,27 @@
+{
+  "name": "asyncforeach",
+  "version": "1.0.0",
+  "description": "It's an async foreachloop, duh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theRealFakeRock/AsyncForeachES6.git"
+  },
+  "keywords": [
+    "async",
+    "foreach",
+    "es6",
+    "await",
+    "for",
+    "each"
+  ],
+  "author": "Orrin Naylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theRealFakeRock/AsyncForeachES6/issues"
+  },
+  "homepage": "https://github.com/theRealFakeRock/AsyncForeachES6#readme"
+}

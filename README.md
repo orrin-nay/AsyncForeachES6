@@ -3,7 +3,7 @@ Provides an asynchronous Foreach function, DUH
 
 ##Usage
 ```
-import asyncForEach from 'AsyncForeachES6';
+import asyncForEach from 'asyncforeaches6';
 
 const array = [1, 2, 3, 4];
 

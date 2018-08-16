@@ -3,13 +3,13 @@ Provides an asynchronous Foreach function, DUH
 
 ##Usage
 ```
-import forEach from 'AsyncForeachES6';
+import asyncForEach from 'AsyncForeachES6';
 
 const array = [1, 2, 3, 4];
 
 const asyncFunction = async () => {
   console.log('start');
-  await forEach(array, (arrayItem) => {
+  await asyncForEach(array, (arrayItem) => {
     console.log(arrayItem);
    });
    console.log('end');

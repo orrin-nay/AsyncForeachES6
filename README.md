@@ -11,11 +11,11 @@ const asyncFunction = async () => {
   console.log('start');
   await asyncForEach(array, (arrayItem) => {
     console.log(arrayItem);
-   });
-   console.log('end');
-}
+  });
+  console.log('end');
+};
 
-asyncFuntion();
+asyncFunction();
 ```
 ###
 ```Output
